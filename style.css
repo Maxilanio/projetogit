@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+#tudo {
+    min-height: 100%;
+    position: relative;
+}
+
+header {   
+    
+}
+
+#conteudo {
+    padding-bottom: 100px;
+}
+
+footer {
+    background-color: red;    
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    position: absolute;
+    bottom: 0;    
+}
+
+footer p {
+    text-align: center;   
+}
